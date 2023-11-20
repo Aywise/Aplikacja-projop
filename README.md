@@ -11,3 +11,7 @@ Interfejs zawiera przyciski numeryczne, operacje matematyczne (dodawanie, odejmo
 -Po zakonczeniu obliczen kalkulator wyswietla wynik na ekranie.
 # Inne mechanizmy
 Kalkulator moze zawierac mechanizmy obslugi bledow, ktore informuja uzytkownika o blednych danych wejsciowych (dzielenie przez zero)
+
+# ver 1.00
+- Dodane potegowanie i pierwiastkowanie
+- Optymalizacja kodu
