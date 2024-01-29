@@ -18,3 +18,6 @@ Kalkulator moze zawierac mechanizmy obslugi bledow, ktore informuja uzytkownika 
     - KISS
     - DRY
     - YAGNI
+      
+# Ver 1.1
+- Redesign aplikacji
