@@ -14,10 +14,7 @@ Kalkulator moze zawierac mechanizmy obslugi bledow, ktore informuja uzytkownika 
 
 # Ver 1.00
 - Dodane potegowanie i pierwiastkowanie
-- Optymalizacja kodu zasadami:
-    - KISS
-    - DRY
-    - YAGNI
+- Optymalizacja kodu
       
 # Ver 1.1
 - Redesign aplikacji
