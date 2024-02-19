@@ -19,5 +19,5 @@ Kalkulator moze zawierac mechanizmy obslugi bledow, ktore informuja uzytkownika 
 # Ver 1.1
 - Redesign aplikacji
 
-#Ver 1.2
+# Ver 1.2
 - Testowanie aplikacji
