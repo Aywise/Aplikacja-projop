@@ -20,4 +20,5 @@ Kalkulator moze zawierac mechanizmy obslugi bledow, ktore informuja uzytkownika 
 - Redesign aplikacji
 
 # Ver 1.2
-- Testowanie aplikacji
+- Dodane menu ustawien
+- Testowanie aplikacji(automatycznie)
