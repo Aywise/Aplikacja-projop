@@ -22,3 +22,7 @@ Kalkulator moze zawierac mechanizmy obslugi bledow, ktore informuja uzytkownika 
 # Ver 1.2
 - Dodane menu ustawien
 - Testowanie aplikacji(automatycznie)
+
+# Ver 1.3
+
+- debugowanie kodu(manualne)
