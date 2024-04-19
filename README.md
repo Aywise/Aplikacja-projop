@@ -26,3 +26,7 @@ Kalkulator moze zawierac mechanizmy obslugi bledow, ktore informuja uzytkownika 
 # Ver 1.3
 
 - debugowanie kodu(manualne)
+
+# Ver 1.4
+
+- Zmiana motywu aplikacji (jasny/ciemny)
